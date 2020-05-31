@@ -14,10 +14,6 @@
         "ecmaVersion": 11
     },
     "rules": {
-        "linebreak-style": [
-            "error",
-            "unix"
-        ],
         "quotes": [
             "error",
             "double"
