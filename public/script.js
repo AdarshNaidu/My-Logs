@@ -21,3 +21,9 @@ socket.on("log", data => {
 })
 
 console.log("Logs show up here")
+
+// lgtm bot test
+sample = "hello there"
+console.log(sample)
+
+const name = "adarsh"
