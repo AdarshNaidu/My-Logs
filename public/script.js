@@ -21,3 +21,6 @@ socket.on("log", data => {
 })
 
 console.log("Logs show up here")
+
+//action test
+console.log('hello');
