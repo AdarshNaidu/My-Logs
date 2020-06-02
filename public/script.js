@@ -22,5 +22,3 @@ socket.on("log", data => {
 
 console.log("Logs show up here")
 
-//lint test
-console.log('es lint in action');
